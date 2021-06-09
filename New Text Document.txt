@@ -1,0 +1,5 @@
+body{
+background-color: #f1f1d2;
+margin: 10px;
+
+}
