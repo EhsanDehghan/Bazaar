@@ -4,13 +4,7 @@
     <meta charset="utf-8">
     <title></title>
   </head>
-
-
-
-
-
-  
   <body>
-
+We are in index page!
   </body>
 </html>

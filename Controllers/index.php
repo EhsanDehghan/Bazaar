@@ -1,22 +1,26 @@
 <?php
-class Index{
+class index extends mainController{
 
 
   function __construct(){
+    // echo 'We are in index controller!';
+  }
+
+
+  function sayHello(){
 
   }
 
 
   function index(){
-    echo 'We are in index method!';
-
+    $this -> viewUrl('index/index');
   }
 }
 
 
-$object = new Index;
-$object -> index();
 
+
+$object = new index;
 
 
 
