@@ -1,6 +1,6 @@
 <?php
 
-class App{
+class app{
 
   public $controller = 'index';
   public $method = 'index';
